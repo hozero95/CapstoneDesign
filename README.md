@@ -3,14 +3,14 @@
 # 기능 구현
 
 >서버
->> OS : Ubuntu Linux 16.04 LTS
->> 개발 언어 : Python
->> 이용 SW : MySQL, Hadoop, Keras, Tensorflow, Apache Zeppelin, Spark
+>>OS : Ubuntu Linux 16.04 LTS
+>>개발 언어 : Python
+>>이용 SW : MySQL, Hadoop, Keras, Tensorflow, Apache Zeppelin, Spark
 
 >어플리케이션
->> OS : Windows 10 Home
->> 개발 언어 : Java
->> 이용 SW : Android Studio, Tensorflow Lite
+>>OS : Windows 10 Home
+>>개발 언어 : Java
+>>이용 SW : Android Studio, Tensorflow Lite
 
 >진행과정
 >>1. 전문 광계측장비(분광복사계, CAS 140 CT)를 통해 실측한 자연광 데이터를 분석하여 딥러닝을 위한 데이터 셋을 도출

@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             );
             OkHttpClient client = new OkHttpClient();
             Request request = new Request.Builder()
-                    .url("http://210.102.142.16/model.tflite")
+                    .url("http://000.000.000.000/model.tflite")
                     .build();
             client.newCall(request).enqueue(cbToDownloadFile);
             modelFlag = true;
